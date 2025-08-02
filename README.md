@@ -6,7 +6,7 @@ I'm a technophile with a curious mind and a passion for **building logic and dec
 📊 I believe data has a voice, and I enjoy translating it into stories using Power BI, Excel, and Tableau.  
 🧠 I don’t just build projects — I build **purposeful tech** that solves problems, tells a story, or simplifies life.
 
----
+
 
 ### 🚀 What I’ve Built So Far
 
@@ -16,7 +16,6 @@ I'm a technophile with a curious mind and a passion for **building logic and dec
 - 🏦 **Java Banking App **  
   Designing a secure, menu-driven Java app for user transactions, registration, and login with a MySQL backend.
 
----
 
 ### 🧰 Tech Stack
 
@@ -25,7 +24,6 @@ I'm a technophile with a curious mind and a passion for **building logic and dec
 **Databases:** MySQL  
 **Other:** Jupyter Notebook, VS Code
 
----
 
 ### 👩‍💼 Beyond Code
 
@@ -33,8 +31,7 @@ I'm a technophile with a curious mind and a passion for **building logic and dec
 - 💃 A trained dancer — choreographing routines keeps my creativity sharp  
 - 🌐 Currently exploring roles in **Software Engineering, Data Analysis**, and **Tech Internships**
 
----
 
 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/anshika-sharmaa/) — open to collaborations, freelance gigs, or simply a great tech conversation.
 
----
+
