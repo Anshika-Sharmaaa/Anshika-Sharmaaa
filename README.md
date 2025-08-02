@@ -32,6 +32,6 @@ I'm a technophile with a curious mind and a passion for **building logic and dec
 - 🌐 Currently exploring roles in **Software Engineering, Data Analysis**, and **Tech Internships**
 
 
-📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/anshika-sharmaa/) — open to collaborations, freelance gigs, or simply a great tech conversation.
+📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/anshika--sharma--) — open to collaborations, freelance gigs, or simply a great tech conversation.
 
 
